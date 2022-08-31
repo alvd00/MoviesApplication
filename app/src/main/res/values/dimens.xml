@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_main_image_size">80dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="tiny_margin">2dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="normal_margin_start">20dp</dimen>
+    <dimen name="middle_margin">28dp</dimen>
+    <dimen name="big_margin">50dp</dimen>
+    <dimen name="title_text_size">36sp</dimen>
+    <dimen name="fragment_detail_poster_width">100dp</dimen>
+    <dimen name="fragment_detail_poster_margin_start">24dp</dimen>
+    <dimen name="fragment_detail_rating_progress_size">40dp</dimen>
+    <dimen name="fragment_detail_rating_indicator_inset">2dp</dimen>
+    <dimen name="fragment_detail_rating_indicator_size">36dp</dimen>
+    <dimen name="progress_default_track_thickness">4dp</dimen>
+    <dimen name="rating_value_max_text_size">14sp</dimen>
+    <dimen name="rating_value_min_text_size">8sp</dimen>
+    <dimen name="rating_value_step_size">1sp</dimen>
+    <dimen name="default_margin_start">8dp</dimen>
+    <dimen name="fragment_movie_item_text_size">14sp</dimen>
+    <dimen name="fragment_movie_item_recycler_height">200dp</dimen>
+    <dimen name="actor_item_width">100dp</dimen>
+    <dimen name="actor_item_height">180dp</dimen>
+    <dimen name="actor_items_radius">10dp</dimen>
+    <dimen name="actor_text_size">10sp</dimen>
+    <dimen name="movie_item_height">300dp</dimen>
+    <dimen name="fragment_movie_item_text_size_default">20sp</dimen>
+    <dimen name="movie_item_margin_horizontal">8dp</dimen>
+    <dimen name="movie_item_margin_vertical">6dp</dimen>
+    <dimen name="minus_normal_margin_top">-20dp</dimen>
+    <item name="recycler_span_count" format="integer" type="dimen">2</item>
+    <item name="fragment_detail_backdrop_height_percent" format="float" type="dimen">0.4</item>
+    <item name="fragment_detail_title_max_lines" format="integer" type="dimen">2</item>
+    <item name="fragment_detail_poster_height_percent" format="float" type="dimen">0.22</item>
+    <item name="item_poster_height_percent" format="float" type="dimen">0.75</item>
+    <item name="poster_height_percent" format="float" type="dimen">0.85</item>
+    <item name="one_max_line" format="integer" type="dimen">1</item>
+    <item name="two_max_lines" format="integer" type="dimen">2</item>
+
+
+</resources>
